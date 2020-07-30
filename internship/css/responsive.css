@@ -1,0 +1,20 @@
+@media (min-width:768px){
+.menu-list-format >li {
+    padding: 5px;
+}
+}
+@media (max-width:768px){
+.home-about-border {
+    border-left: 0px !important;
+}
+}
+@media (min-width:326x){
+.home-project-section img {
+   width:100%;
+   
+}
+.project-head{
+	width:97.5%;
+	height:8%;
+}
+}

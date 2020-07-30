@@ -1,0 +1,40 @@
+@import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+	background:white !important;
+		color:orange;
+}
+.login-page {
+    margin: 150px;
+    padding: 25px;
+    background:linear-gradient(to right,black,red,black);
+}
+.login-page label{
+	color:orange;
+}
+.login-page .home {
+    float: right;
+}
+.login-page a:hover{
+	color:white;
+}
+.text{
+	font-family:roboto;
+}
+.style{
+	height:25x;
+	width:80%
+}
+.container{
+	padding:10px  50px;
+	height:20%;
+}
+i{
+	color:white;
+}
+.needs-validation .validation {
+    color: red;
+    display: none;
+    margin: 4px 0 20px 0;
+    font-weight: 400;
+    font-size: 13px;
